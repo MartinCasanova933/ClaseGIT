@@ -12,7 +12,7 @@ public class ClaseGIT {
 		//3. Que su compañero se lo descargue
 		System.out.println("Hola Clase!!!");
 		
-		System.out.println("Hola Profes!!");
+		System.out.println("Hola Profes!!"); 
 	}
 
 }
