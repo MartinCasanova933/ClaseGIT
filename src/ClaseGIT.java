@@ -13,6 +13,8 @@ public class ClaseGIT {
 		System.out.println("Hola Clase!!!");
 		
 		System.out.println("Hola Profes!!"); 
+		
+		System.out.println("Hola Profes!! Equipo Rosales");
 	}
 
 }
